@@ -1,0 +1,14 @@
+[
+  {
+    "address": "6GPGg5zBi1yje9bTyyc71Heu7gkrSTeZUqYQLy9bJCmL",
+    "privateKey": "",
+    "balance": 0.02,
+    "name": "Wallet 1"
+  },
+  {
+    "address": "AH4wpYLEUAjwy3S9UU5LV8hY3eprQCjaiQVaUfg54jVL",
+    "privateKey": "",
+    "balance": 0.02,
+    "name": "Wallet 2"
+  }
+]
